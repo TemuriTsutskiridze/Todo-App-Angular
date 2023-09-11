@@ -23,6 +23,12 @@
       "day": "42343",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "rege",
+      "day": "grege",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
